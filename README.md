@@ -1,5 +1,5 @@
 # AI
-This repo contains the exercises and practices of basic AI algorithms
+This repo contains the exercises and practices of the basic AI algorithms
 
 Algorithms that I used in each exercise:
 * Snake_Game
